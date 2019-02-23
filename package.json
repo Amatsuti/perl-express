@@ -1,0 +1,27 @@
+{
+  "name": "perl-express",
+  "version": "0.1.0",
+  "description": "Fake CGI/Perl Server on Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amatsuti/perl-express.git"
+  },
+  "keywords": [
+    "perl",
+    "cgi",
+    "express"
+  ],
+  "author": "Amatsuti",
+  "license": "MIT",
+  "dependencies": {
+    "http-string-parser": "0.0.6"
+  },
+  "bugs": {
+    "url": "https://github.com/Amatsuti/perl-express/issues"
+  },
+  "homepage": "https://github.com/Amatsuti/perl-express#readme"
+}
